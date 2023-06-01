@@ -690,6 +690,11 @@ h1 a:visited {
     }
 }
 
+.container-right kc-line a {
+    display: inline-block;
+    margin-right: 0.5rem;
+}
+
 .container-right a,
 .container-right a:visited {
     text-decoration: none;
